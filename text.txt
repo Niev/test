@@ -1,10 +1,5 @@
 function test()
 {
-    print "123";
-    var_dump("456");
-
-    print(123);
-    var_dump(123);
-    
-    if (123) {};
+	echo "Something";
+	return 1;
 }
