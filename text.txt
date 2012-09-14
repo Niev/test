@@ -1,7 +1,7 @@
 function test()
 {
     print "123";
-    var_dump("456");
+    var_dump("456"); print(123);
     
     if (123) {};
 }
